@@ -1,0 +1,12 @@
+*.log
+*.out
+*.pid
+*.cfg
+.DS*
+bin
+lib
+*.json
+logs/
+airflow-tutorial/venv/*
+*.db
+*.err
